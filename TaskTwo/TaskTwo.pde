@@ -4,8 +4,7 @@ void setup() {
 }
 
 void printPartOfWord(String input, int i, int j) {
-  String output;
-  output = input.substring(i, i+j);
+  String output = input.substring(i, i+j);
 
   println(output);
 }

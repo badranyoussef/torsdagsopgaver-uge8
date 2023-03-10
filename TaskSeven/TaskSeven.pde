@@ -7,7 +7,6 @@ int[] integers = new int[5];
 void setup() {
   
   int[]integers = {5,3,8,4,1};
-  
   arrInt.add(1);
   arrInt.add(17);
   arrInt.add(9);
